@@ -1,4 +1,4 @@
-# This document includes projects completed as part of the Specialist Diploma in Data Science program at the Singapore Polytechnic. 
+This document includes projects completed as part of the Specialist Diploma in Data Science program at the Singapore Polytechnic. 
 
 Projects included: 
 Gender Pay Gap Analysis in Singapore (Data from 1998 - 2019)
